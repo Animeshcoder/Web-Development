@@ -1,4 +1,3 @@
-// src/components/Channel2.js
 import React from 'react';
 import ChatWindow from './ChatWindow';
 
