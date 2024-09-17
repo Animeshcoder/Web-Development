@@ -1,4 +1,3 @@
-// src/components/ChatWindow.js
 import React, { useState, useEffect, useRef } from 'react';
 import MessageList from './MessageList';
 import InputBox from './InputBox';
