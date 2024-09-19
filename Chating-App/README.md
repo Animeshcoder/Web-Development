@@ -10,6 +10,9 @@ Follow these steps to set up the project on your local machine:
 
    ```bash
    git clone https://github.com/Animeshcoder/Web-Development.git
+   ```
+2. **Installation and run:**
+   ```bash
    cd Web-Development/Chating-App
    npm install
    npm run dev
