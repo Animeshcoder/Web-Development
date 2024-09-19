@@ -17,3 +17,4 @@ Follow these steps to set up the project on your local machine:
    npm install
    npm run dev
    ```
+3. **Switch or click to users and channels for user and channel specific chatting from home route.**
