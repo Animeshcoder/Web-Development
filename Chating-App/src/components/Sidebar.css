@@ -20,17 +20,18 @@
     margin-bottom: 10px;
   }
   
-  .section ul {
-    list-style: none;
-    padding: 0;
-  }
-  
   .section ul li {
-    padding: 5px 0;
-    cursor: pointer;
+    margin-bottom: 10px;
   }
   
-  .section ul li:hover {
-    background-color: #7289da;
+  .section ul li a {
+    color: #007bff; /* Default link color */
+    text-decoration: none;
   }
+  
+  .section ul li a:hover {
+    color: #0056b3; /* Hover link color */
+    text-decoration: underline;
+  }
+  
   
