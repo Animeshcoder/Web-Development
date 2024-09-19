@@ -1,8 +1,16 @@
-# React + Vite
+# Chatting App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the Chatting App! This is a simple chat application built with React and React Router.
 
-Currently, two official plugins are available:
+## Installation
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Follow these steps to set up the project on your local machine:
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/Animeshcoder/Web-Development.git
+   cd Web-Development/Chating-App
+   npm install
+   npm run dev
+   ```
