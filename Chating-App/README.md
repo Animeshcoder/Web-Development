@@ -18,3 +18,7 @@ Follow these steps to set up the project on your local machine:
    npm run dev
    ```
 3. **Switch or click to users and channels for user and channel specific chatting from home route.**
+
+# Features:
+*Chat Functionality: Send and receive messages with various text transformations.*
+*User-Specific Transformations: Different text transformations for different users.*
